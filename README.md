@@ -1,4 +1,4 @@
-# shopify-app
+
 
 ## Build Setup
 
